@@ -3,7 +3,7 @@
 
 int main() {
     
-    printf("=== SISTEMA DE ANALISIS ACADEMICO ===\n\n");
+    printf("BIENVENIDO ESTUDIANTE\n\n");
 
     int codigo, edad;
     char nombre[50];
