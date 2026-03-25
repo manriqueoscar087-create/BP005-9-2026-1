@@ -89,7 +89,7 @@ int main() {
         printf("Acceso al laboratorio: DENEGADO\n");
     }
 
-    printf("\n=== RESUMEN ===\n");
+    printf("\nRESUMEN\n");
     printf("Codigo: %d\n", codigo);
     printf("Nombre: %s %c.\n", nombre, inicialApellido);
     printf("Edad: %d\n", edad);
